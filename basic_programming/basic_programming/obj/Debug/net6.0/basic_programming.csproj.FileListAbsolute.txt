@@ -1,0 +1,15 @@
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/bin/Debug/net6.0/basic_programming
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/bin/Debug/net6.0/basic_programming.deps.json
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/bin/Debug/net6.0/basic_programming.runtimeconfig.json
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/bin/Debug/net6.0/basic_programming.dll
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/bin/Debug/net6.0/basic_programming.pdb
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/basic_programming.csproj.AssemblyReference.cache
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/basic_programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/basic_programming.AssemblyInfoInputs.cache
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/basic_programming.AssemblyInfo.cs
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/basic_programming.csproj.CoreCompileInputs.cache
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/basic_programming.dll
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/refint/basic_programming.dll
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/basic_programming.pdb
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/basic_programming.genruntimeconfig.cache
+/Users/alperyorgun/Documents/GitHub/algorithm_and_data_structures/basic_programming/basic_programming/obj/Debug/net6.0/ref/basic_programming.dll

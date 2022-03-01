@@ -1,24 +1,25 @@
 ﻿<Properties StartupConfiguration="{E815E8F8-A360-45F3-AD3F-883D05242AE7}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="basic_programming/operators.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.basic__programming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="basic_programming/loops.cs">
     <Files>
-      <File FileName="basic_programming/Program.cs" Line="16" Column="1" />
+      <File FileName="basic_programming/Program.cs" Line="5" Column="1" />
       <File FileName="basic_programming/variables.cs" Line="19" Column="34" />
       <File FileName="basic_programming/array_literals_and_constants.cs" Line="11" Column="18" />
-      <File FileName="basic_programming/operators.cs" Line="29" Column="35" />
+      <File FileName="basic_programming/operators.cs" Line="34" Column="1" />
+      <File FileName="basic_programming/conditional_operator.cs" Line="20" Column="1" />
+      <File FileName="basic_programming/loops.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="basic_programming" expanded="True">
-            <Node name="basic_programming" expanded="True">
-              <Node name="operators.cs" selected="True" />
-            </Node>
+            <Node name="basic_programming" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -27,5 +28,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.basic__programming PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

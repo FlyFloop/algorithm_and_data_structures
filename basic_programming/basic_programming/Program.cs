@@ -37,7 +37,7 @@ Console.WriteLine("******");
 
 //matrix
 
-double[,] matrix = new double[,] { { 1, 2, 3 }, { 2, 3, 4 },{3,4,5} };
+double[,] matrix = new double[,] { { 1, 2, 3,4 }, { 2, 3, 4 },{3,4,5} };
 
 for(int i = 0; i< matrix.GetLength(0); i++)
 {
@@ -72,10 +72,11 @@ int[] sayilar1 = new int[] { 1, 2, 3, 4, 5, 6 };
 arrayList.AddRange(sayilar1);
 Console.WriteLine();
 
-//elemana erişme ve atama
+//eleman silme
 arrayList.Remove(1);
 arrayList.Remove("alper");
 arrayList.Remove(true);
+
 foreach (var num in arrayList)
 {
     Console.WriteLine(num);

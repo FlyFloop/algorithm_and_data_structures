@@ -1,0 +1,2 @@
+linkedlist en büyük özelliği dinamik hafıza kullanır ihtiyaç oldukça büyür
+diziler sabit , linkedlistler dinamik boyutludur

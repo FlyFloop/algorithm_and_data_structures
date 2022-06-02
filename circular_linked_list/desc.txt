@@ -1,0 +1,2 @@
+dairesele bağlı liste yapısı gereği daire oluşturmka zorunda normal bağlı listelerdeki gibi
+en son eleman null'u göstermicek en son eleman ilk elemanı göstericek ve dairesel bir yapı oluşucak
